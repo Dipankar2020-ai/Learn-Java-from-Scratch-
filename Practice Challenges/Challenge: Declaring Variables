@@ -1,0 +1,27 @@
+ public class Exercise {
+     public static void print() {
+         // Define your variables below this line
+         int a=1000;
+         float b=10.292f;
+         double c=0.00000000000512365123;
+         char d='N';
+         boolean e=true;
+
+
+
+         System.out.println("Value of Int is: \n"+a);
+         // print your int variable here
+
+         System.out.println("Value of Float is: \n"+b);
+         // print your float variable here
+
+         System.out.println("Value of Double is: \n"+c);
+         // print your double variable here
+
+         System.out.println("Value of Char is: \n"+d);
+         // print your char variable here
+
+         System.out.println("Value of Bool is: \n"+e);
+         // print bool double variable here
+     }
+ }
